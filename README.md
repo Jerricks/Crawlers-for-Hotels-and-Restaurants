@@ -1,2 +1,2 @@
 # RepuPro
-RepuPro is a major project developed for Reputation Analytics.
+RepuPro is a Reputation Analytics Project developed for Reputation Management.
